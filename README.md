@@ -115,16 +115,13 @@ Há mais de 20 anos, iniciei minha trajetória imerso no universo das artes grá
 
 <div>
   <img align="right" width="45" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk1dXJteTRsYjJvbHc5dDVweXZ4em9peG91dTJ5NWRuNHcydHo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif"></a>
-  <h3>🔍 Me encontre no</h3>
+  <h3>🔍 Me encontre</h3>
   <a href="https://www.linkedin.com/in/rodolfo-sampaio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href = "mailto:rodolfo120282@gmail.com">
     <img src="https://img.shields.io/badge/-rodolfo120282@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-    <a href="https://www.duolingo.com/profile/RodolfoSam5" target="_blank">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank">
-  </a> 
 </div>
 
 

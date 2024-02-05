@@ -120,9 +120,6 @@ Over 20 years ago, I began my journey immersed in the world of graphic arts, pro
   <a href = "mailto:rodolfo120282@gmail.com">
     <img src="https://img.shields.io/badge/-rodolfo120282@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-    <a href="https://www.duolingo.com/profile/RodolfoSam5" target="_blank">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <br>
